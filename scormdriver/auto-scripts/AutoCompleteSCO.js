@@ -1,1 +1,0 @@
-function SetSCOComplete(){var e=window.parent;e.SetReachedEnd(),e.CommitData()}SetSCOComplete();

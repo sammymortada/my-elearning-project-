@@ -1,1 +1,0 @@
-function niExit(){var o=window.parent;confirm("Are You Sure You Wish To Exit This Course?")&&o.ConcedeControl()}
